@@ -1,0 +1,4 @@
+While working in the AEC industry. We use PDF's ALOT! We use several different programs to make, edit and print PDF's. 
+We only have about ¼ the amount of license for Bluebeam then we do staff so quite often people would forget about PDF Edit 995, a permanent license PDF function program that we can combine PDF’s. So when folks would say they could not combine PDF’s because all of the BlueBeam Licenses are in use, id have them us PDF Edit 995 to combine.
+Getting tired of sending out the email or informing others of this feature, I made a Reg change to add PDF Edit’s Combine Function to the Context Menu. 
+This script will back up all the users Reg Hives and put them in a server folder, then install the PDF extension needed to combine PDF’s. This script to be modified to backup and add Reg changes as needed as well.
